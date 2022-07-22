@@ -291,6 +291,7 @@ button {
     height: 50px;
     text-align: center;
     font-size: 20px;
+    border-radius:3px;
 }
 .contact_bt {
     width: 43%;
@@ -622,13 +623,6 @@ button.main_bt a:hover { color: #faf9f9; }
 	font-size: 15px;
 }
 
-
-
-
-
-
-
-
 .sidebar {
   height: 100%;
   width: 0;
@@ -688,4 +682,11 @@ button.main_bt a:hover { color: #faf9f9; }
 
 .footer_padding{
 	margin: 0px;
+}
+
+.col-sm-4 {
+    font-family: Poppins;
+    color: #fff;
+    width: 100px;
+    height: 10vh;
 }
