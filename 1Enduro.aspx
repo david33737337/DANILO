@@ -172,7 +172,7 @@
             <div class="about_section">
                 <div class="container">
                     <div class="about_img">
-                        <img src="images/about-img1.png" style="max-width: 100%;"></div>
+                        <img src="images/enduroBike.jpg" style="max-width: 100%;" />
                     <h2 class="about_text"><strong>About <span style="color: #000;">Us</span></strong></h2>
                     <div class="about_middle">
                         <p class="about_lorem">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it </p>
@@ -199,13 +199,13 @@
                     <div id="my_slider" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="images/our-img-1.png" alt="First slide">
+                                <img class="d-block w-100" src="images/enduro1.png" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="images/our-img-1.png" alt="Second slide">
+                                <img class="d-block w-100" src="images/enduro2.png" alt="Second slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="images/our-img-1.png" alt="Third slide">
+                                <img class="d-block w-100" src="images/enduro3.png" alt="Third slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#my_slider" role="button" data-slide="prev">
@@ -235,16 +235,56 @@
             </div>
             <div class="our_section_2">
                 <div class="our_main">
-                    <div id="my_slider2" class="carousel slide" data-ride="carousel">
+                    <div id="my_slider" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="images/our-img-1.png" alt="First slide">
+                                <img class="d-block w-100" src="images/enduro1.png" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="images/our-img-1.png" alt="Second slide">
+                                <img class="d-block w-100" src="images/enduro2.png" alt="Second slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="images/our-img-1.png" alt="Third slide">
+                                <img class="d-block w-100" src="images/enduro3.png" alt="Third slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#my_slider" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#my_slider" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+                <button class="seemore_bt">See More</button>
+            </div>
+        </div>
+        <div class="contact_section layout_padding">
+        </div>
+        <!-- our section end -->
+                    <!-- our section start -->
+        <div class="our_section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1 class="our_text"><strong>Our <span style="color: #000;">Cycles</span></strong></h1>
+                        <p class="about_lorem">Questa fatastica bici ti migliorerà le giornate. Viva ghidella.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="our_section_2">
+                <div class="our_main">
+                    <div id="my_slider" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100" src="images/enduro1.png" alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="images/enduro2.png" alt="Second slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="images/enduro3.png" alt="Third slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#my_slider" role="button" data-slide="prev">
@@ -274,7 +314,7 @@
                 <p class="ice_text">(lcc)</p>
                 <div>
                     <img src="images/left-quote.png"></div>
-                <p class="dolore_text">Continuano le curiosità sul nostro ciclista e junior .NET dewveloper Giovanni Franza detto "giuvà" </p>
+                <p class="dolore_text">Continuano le curiosità sul nostro ciclista e junior .NET developer Giovanni Franza meglio noto come:"giuvà" </p>
                 <div class="right_quote">
                     <img src="images/right-quote.png"></div>
             </div>
